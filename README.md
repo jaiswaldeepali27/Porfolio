@@ -1,12 +1,17 @@
-# React + Vite
+# 💼 Deepali Jaiswal - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code for my personal portfolio website! This site showcases who I am, the work I've done, and how to get in touch with me.  
+🌐 [Visit the live site](https://deepalijaiswal.netlify.app)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👩‍💻 About Me
 
-## Expanding the ESLint configuration
+I’m Deepali Jaiswal, a passionate **Full Stack Web Developer** skilled in building modern, user-friendly web applications. I love creating elegant digital experiences that help businesses grow and connect with their audiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Vite
+- **Others**: Git & GitHub, Netlify, EmailJS
