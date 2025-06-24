@@ -6,7 +6,7 @@ const projects = [
     title: "React Chat App",
     description:
       "A real-time chat interface built with React, styled using TailwindCSS, and powered by Express on the backend.",
-    image: "/src/assets/images/chat-app.png",
+    image: "/projects/chat-app.png",
     tags: ["React", "TailwindCSS", "Express"],
     demoUrl: "#",
     githubUrl: "https://github.com/jaiswaldeepali27/React-Chat-App",
@@ -16,7 +16,7 @@ const projects = [
     title: "Revive Hospitality Services",
     description:
       "A modern, responsive business website built with WordPress, featuring clean HTML structure and custom CSS styling.",
-    image: "/src/assets/images/revive-hospitality.png",
+    image: "/projects/revive-hospitality.png",
     tags: ["WordPress", "Html", "CSS"],
     demoUrl: "https://revivehospitalityservices.in/",
     githubUrl: "#",
@@ -26,7 +26,7 @@ const projects = [
     title: "E-commerce Platform",
     description:
       "A responsive online store created with WordPress, enhanced with HTML and CSS for layout and branding customization.",
-    image: "/src/assets/images/hardtrac.png",
+    image: "/projects/hardtrac.png",
     tags: ["Wordpress", "Html", "CSS"],
     demoUrl: "https://hardtrac.co.in/",
     githubUrl: "#",
