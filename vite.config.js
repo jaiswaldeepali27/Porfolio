@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
@@ -9,7 +9,12 @@ export default defineConfig({
     react(),
     tailwindcss({
       config: {
-        darkMode: "class",
+        darkMode: "class", // Enable class-based dark mode
+        content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+        theme: {
+          extend: {},
+        },
+        plugins: [],
       },
     }),
   ],
