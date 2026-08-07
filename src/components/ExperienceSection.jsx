@@ -4,6 +4,13 @@ import { motion } from "framer-motion";
 const experienceData = [
   {
     role: "Full Stack Developer",
+    company: "Bhatia Brothers Pvt Ltd",
+    duration: "July 2025 - Present",
+    description:
+      "Developed AI-powered business solutions by integrating Azure Document Intelligence and ChatGPT with Zoho CRM to automate document processing and customer data management. Built API integrations, optimized website performance and security, and collaborated with cross-functional teams to deliver scalable, maintainable, and efficient automation solutions.",
+  },
+  {
+    role: "Full Stack Developer",
     company: "Promodome Digital LLP",
     duration: "Sep 2022 - April 2025",
     description:
