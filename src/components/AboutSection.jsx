@@ -37,7 +37,7 @@ const AboutSection = () => {
               </a>
 
               <a
-                href="/cv/Deepali.pdf"
+                href="/cv/Deepali_4YOE_Full_Stack.pdf"
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
